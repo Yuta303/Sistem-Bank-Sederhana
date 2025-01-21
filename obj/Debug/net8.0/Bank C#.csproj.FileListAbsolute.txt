@@ -1,0 +1,14 @@
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\bin\Debug\net8.0\Bank C#.exe
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\bin\Debug\net8.0\Bank C#.deps.json
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\bin\Debug\net8.0\Bank C#.runtimeconfig.json
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\bin\Debug\net8.0\Bank C#.dll
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\bin\Debug\net8.0\Bank C#.pdb
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\Bank C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\Bank C#.AssemblyInfoInputs.cache
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\Bank C#.AssemblyInfo.cs
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\Bank C#.csproj.CoreCompileInputs.cache
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\Bank C#.dll
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\refint\Bank C#.dll
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\Bank C#.pdb
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\Bank C#.genruntimeconfig.cache
+C:\Users\Ibnu Akbar Fauzan\OneDrive\Dokumen\BELAJAR CODING\Bank C#\obj\Debug\net8.0\ref\Bank C#.dll
